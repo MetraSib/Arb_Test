@@ -32,4 +32,9 @@ public class StartMenuScene : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
+
+    public void StartGame_2() 
+    {
+        SceneManager.LoadScene(2);
+    }
 }
