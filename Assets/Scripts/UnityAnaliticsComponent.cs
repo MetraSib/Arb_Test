@@ -10,5 +10,6 @@ public class UnityAnaliticsComponent : MonoBehaviour
         {
             {"Level", levelId },
         });
+        //Debug.Log(analyticsResult);
     }
 }
